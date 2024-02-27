@@ -1,1 +1,0 @@
-https://marmelab.com/react-admin/

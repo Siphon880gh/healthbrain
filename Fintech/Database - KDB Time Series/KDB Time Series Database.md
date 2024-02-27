@@ -1,1 +1,0 @@
-https://kx.com/products/kdb/

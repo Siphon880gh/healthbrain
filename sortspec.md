@@ -1,12 +1,10 @@
 ---
 sorting-spec: |-
-  3D Modeling, Game Development, VR-AR, Virtual Production
-  AI Developer
-  AI Engineer
-  AWS Cloud
-  Databases
-  DevOps
-  Web Development
-  Web Development - Rapid Development
-  ---
+  Unreal Engine
+  Blender
+  Game Development - Misc
+  Game Development - Three Js
+  -------------------------------------------
+  AI to 3d model, Animation, etc
+  Free 3d Models, Characters, etc
 ---

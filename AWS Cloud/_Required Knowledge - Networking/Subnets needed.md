@@ -1,1 +1,0 @@
-Subnets should be learned for AWS because when you manage resources, you can manage subnets.

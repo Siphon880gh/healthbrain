@@ -1,2 +1,0 @@
-
-Ggl tailwind quizlet

@@ -1,3 +1,0 @@
-```
-if rabbit in animals:
-```
