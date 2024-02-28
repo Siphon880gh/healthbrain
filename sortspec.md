@@ -7,5 +7,5 @@ sorting-spec: |-
   -------------------------------------------
   AI to 3d model, Animation, etc
   Free 3d Models, Characters, etc
-  __Categories
+  __Categories.md
 ---
