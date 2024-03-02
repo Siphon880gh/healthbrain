@@ -1,3 +1,13 @@
+
+Pull makes the volume shrivel up:
+![](https://i.imgur.com/5IeVqtn.png)
+
+Push makes the volumes inflate
+![](https://i.imgur.com/mz8MKdF.png)
+
+---
+
+
 Push/pull
 ![](https://i.imgur.com/IGAzTEs.png)
 

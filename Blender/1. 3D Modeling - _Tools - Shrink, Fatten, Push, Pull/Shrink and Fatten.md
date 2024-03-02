@@ -29,3 +29,28 @@ In one direction:
 
 In the other direction:
 ![](https://i.imgur.com/71nkxGt.png)
+
+---
+
+Also lets you thicken a cylinder without making it longer (thickening, hence it's called fatten)
+![](https://i.imgur.com/ning0BJ.png)
+
+https://youtu.be/DLZrFZegi5U?t=4
+
+---
+
+Proportional editing:
+Not -
+![](https://i.imgur.com/pekNm9q.png)
+
+With - .![](https://i.imgur.com/GOmUT5q.png)
+
+^ And you adjust with Offset and Proportional Fall Off
+
+---
+
+![](https://i.imgur.com/uSe0TlC.png)
+
+With Proportional Editing ticked on, you can choose to affect only the connected vertexes or also the unconnected vertexes. Eg. Ticking Connected means the proportional editing shrink/flat will only affect the selected vertexes that are connected and will not affect the eyes which are not connected.
+
+https://www.youtube.com/watch?v=DLZrFZegi5U

@@ -1,5 +1,5 @@
 
-Polybuild can increase polygon count if you use it to extend the surfaces and shapes of your  model
+Polybuild can increase polygon count if you use it to extend the surfaces and shapes of your  model. It can add flaps or volumetric shapes to an existing model/object.
 
 Easily add another face from an edge, whether it's a triangular or a rectangular face. As you add face after face, because each new face extended from a prior edge, they're connected together. Great for creating a complex cover over a model or for creating an architectural model or base model* from scratch. 
 \*Base model from which you will sculpture from to add more organic round shapes and curves.
