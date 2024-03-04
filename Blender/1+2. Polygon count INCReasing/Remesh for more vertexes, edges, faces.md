@@ -1,7 +1,11 @@
 Sculpting mode: R -> Drag to adjust number of faces -> Click to soft commit
-Then CMD+R for hard commit
+
+If the below doesnt show up (instead a black circle that adjusts to your drag shows up), then you have to disable dyntopo (dynamic topology)
 
 ![](https://i.imgur.com/aJlQML8.png)
+
+
+Then CMD+R for hard commit
 
 Can go back into Edit Mode to see the new vertexes introduced. Rectangular sharp objects become more rounded and spherical.
 

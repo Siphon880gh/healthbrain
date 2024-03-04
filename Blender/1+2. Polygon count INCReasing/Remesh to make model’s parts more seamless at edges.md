@@ -30,7 +30,7 @@ Tick “Fix Poles”
 > Overall, "Fix Poles" in the context of remeshing seeks to optimize the mesh topology by addressing both N-Poles and E-Poles. It does so to ensure a smoother, more uniform surface that behaves predictably during further editing, subdivision, and animation, ultimately leading to higher quality models with fewer artifacts.
 
   
-Shift+R or R to adjust the grids’ denseness
+R to adjust the grids’ denseness (if doesn't show the grid here to let you adjust the mesh details, turn off dyntopo)
 ![](https://i.imgur.com/8fezgZr.png)
 
 

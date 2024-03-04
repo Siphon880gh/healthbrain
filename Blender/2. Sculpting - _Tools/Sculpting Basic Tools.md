@@ -1,10 +1,15 @@
-Draw sharp (changing shape by adding mesh)
+Draw (changing shape by adding mesh)
 
-Draw sharp holding CMD (adding crease lines)
+Add (click drag) / pushes out
+Subtract (when hold CMD and click drag) will remove / push down
 
+8:04 [https://youtu.be/IG1IEpU5VAw?t=484](https://youtu.be/IG1IEpU5VAw?t=484)
+
+---
+
+Draw sharp - holding CMD (adding crease lines)
 
 Elastic Deform (change sphere into cat head / snout)
-
 
 Grab (changing shape)
 
