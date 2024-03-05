@@ -27,7 +27,7 @@ if ($output === null) {
     echo "Command output:\n$output";
 }
 
-echo "<br/>";
+echo "<br/><br/>";
 echo "View: <a href='../'>View web notes</a><br/>";
 
 // Server migration:
