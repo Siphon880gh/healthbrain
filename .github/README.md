@@ -1,6 +1,8 @@
-# 3D Modeling, Game Development, etc Notes
+# Business Brain - Notes on Entrepreneurship, Funding, SaaS, etc
 
-By Weng Fei Fung. Working on making my notes sharable and contributable between a separate repository here and my front app at https://github.com/Siphon880gh/3dbrain-front. Cooking up.
+By Weng Fei Fung.
+
+Collection of SaaS tech entrepreneur notes. The goal is to record what I learn as I start tech businesses, read business books, talk to business persons, etc. I want to leverage what I know from software development into my own startups.
 
 ### Mac workflow Obsidian to Terminal: 
 I am authoring the curriculum separately inside an Obsidian MD vault. I can manage the git repository by right clicking the curriculum folder in Obsidian -> Reveal in Finder -> New Terminal at Folder (on the highlighted folder in Finder). Now I can run git and other terminal commands.
