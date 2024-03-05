@@ -20,13 +20,15 @@ echo "Executing user: " . $user . "<br/>";
 echo "CWD:" . $pwd . "<br/>";
 echo "COMMAND OUTPUT:" . $output . "<br/>";
 echo "EXIT CODE:" . $exitCode; "<br/>";
-echo "View: <a href='../../'>View web notes</a><br/>";
 
 if ($output === null) {
     echo "Error executing the command.";
 } else {
     echo "Command output:\n$output";
 }
+
+echo "<br/>";
+echo "View: <a href='../'>View web notes</a><br/>";
 
 // Server migration:
 // Running shell command and it's permission denied? Get user and add it to the folder you're at
