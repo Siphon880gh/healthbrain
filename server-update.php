@@ -20,6 +20,7 @@ echo "Executing user: " . $user . "<br/>";
 echo "CWD:" . $pwd . "<br/>";
 echo "COMMAND OUTPUT:" . $output . "<br/>";
 echo "EXIT CODE:" . $exitCode; "<br/>";
+echo "View: <a href='../../'>View web notes</a><br/>";
 
 if ($output === null) {
     echo "Error executing the command.";
