@@ -4,7 +4,7 @@ By Weng Fei Fung.
 
 Collection of notes on Health, Fitness, Wellness, Longevity. The goal is to record a wealth of knowledge that can be applied for healthy and productive lives. 
 
-I chose to make this into a Github repository so others can contribute their knowledge and I can easily backup information using version control. This Github repo is also integrated with Obsidian MD, offering a seamless authoring experience, allowing me to write and format content as needed while retaining full control over my data.
+I chose to make this into a Github repository so others can contribute their knowledge and I can easily backup information using version control. This Github repo is also integrated with Obsidian MD, offering a seamless authoring experience, allowing me to write and format content as needed while retaining full ownership over my data.
 
 See the notes at [https://wengindustry.com/healthbrain](https://wengindustry.com/healthbrain).
 
