@@ -6,10 +6,11 @@
   "scripts": {
     "commit": "git add -A; FILENAMES=`git diff --cached --name-only | while read -r file; do basename \"$file\"; done | tr '\n' ','` && git commit -m \"New - $FILENAMES\";",
     "old-commit(shows full path)": "git add -A; FILENAMES=`git diff --cached --name-only | tr '\n' ';'` && git commit -m \"New - $FILENAMES\";",
+    "old-commit(all commits called content update)": "git add -A; git commit -m 'Content update';",
     "push": "git push origin main;",
-    "browserMac": "open \"https://wengindustry.com/tools/bizbrain/curriculum/server-update.php?secret=123\"",
-    "browserPC":  "xdg-open \"https://wengindustry.com/tools/bizbrain/curriculum/server-update.php?secret=123\"",
-    "browserLinux":  "start \"https://wengindustry.com/tools/bizbrain/curriculum/server-update.php?secret=123\"",    
+    "browserMac": "open \"https://wengindustry.com/tools/healthbrain/curriculum/server-update.php?secret=123\"",
+    "browserPC":  "xdg-open \"https://wengindustry.com/tools/healthbrain/curriculum/server-update.php?secret=123\"",
+    "browserLinux":  "start \"https://wengindustry.com/tools/healthbrain/curriculum/server-update.php?secret=123\"",    
     "deploy": "npm run commit; npm run push && npm run browserMac;"
   },
   "author": "",

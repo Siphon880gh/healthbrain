@@ -1,8 +1,12 @@
-# Tech Business Brain - Notes on Startups, SaaS, Entrepreneurship, Funding, etc
+# Health Brain - Notes on Health, Fitness, Wellness, Longevity, etc
 
 By Weng Fei Fung.
 
-Collection of SaaS tech entrepreneur notes. The goal is to record what I learn as I start tech businesses, read business books, talk to business persons, etc. I want to leverage what I know from software development into my own startups.
+Collection of notes on Health, Fitness, Wellness, Longevity. The goal is to record a wealth of knowledge that can be applied for healthy and productive lives. 
+
+I chose to make this into a Github repository so others can contribute their knowledge and I can easily backup information using version control. This Github repo is also integrated with Obsidian MD, offering a seamless authoring experience, allowing me to write and format content as needed while retaining full control over my data.
+
+See the notes at [https://wengindustry.com/healthbrain](https://wengindustry.com/healthbrain).
 
 ### Mac workflow Obsidian to Terminal: 
 I am authoring the curriculum separately inside an Obsidian MD vault. I can manage the git repository by right clicking the curriculum folder in Obsidian -> Reveal in Finder -> New Terminal at Folder (on the highlighted folder in Finder). Now I can run git and other terminal commands.
